@@ -1,0 +1,1627 @@
+@media (max-width : 1259px) {
+    .logo {
+        width: 40%;
+    }
+
+    .logo img {
+        width: 320px;
+    }
+
+    .nav {
+        width: 60%;
+    }
+
+    .third-left {
+        margin-top: 25vh;
+    }
+
+    .third-img {
+        width: 48%;
+        margin-bottom: 20px;
+    }
+
+    .fifth {
+        width: 70%;
+        height: 86vh;
+    }
+
+    .fifth>div {
+        height: 86vh;
+    }
+
+    .eight h1 {
+        font-size: 34px;
+        padding-bottom: 0px;
+        padding: 40px;
+        padding-left: 70px;
+    }
+
+    .eight span {
+        line-height: 23px;
+    }
+
+    input,
+    select {
+        height: 30px;
+        font-size: 18px;
+    }
+
+    input::placeholder,
+    select::placeholder {
+        font-size: 18px;
+    }
+
+    .eight-right {
+        width: 35%;
+    }
+
+    .eight img {
+        display: block;
+        width: 100%;
+    }
+
+    .eight button {
+        width: 100%;
+        padding: 0;
+        height: 30px;
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .img img {
+        width: 25%;
+    }
+
+    .last-first {
+        margin-left: 15%;
+
+    }
+
+    .last-first span {
+        font-size: 15px;
+    }
+
+    .last-first img {
+        width: 35px;
+        height: 35px;
+    }
+
+    .first-right {
+        width: 40%;
+    }
+
+    .first-right img {
+        width: 90%;
+    }
+
+    .first-left {
+        width: 60%;
+    }
+}
+
+@media (max-width : 1070px) {
+    .logo {
+        width: 35%;
+    }
+
+    .logo img {
+        width: 60%;
+    }
+
+    .nav {
+        width: 65%;
+    }
+
+    .logos-img {
+        width: 80%;
+    }
+
+    .last-first {
+        margin-left: 15%;
+    }
+
+    .first-left h1 {
+        font-size: 35px;
+        font-weight: 700;
+    }
+
+    .buttons button {
+        font-size: 16px;
+        padding: 10px 23px;
+    }
+
+    .first-left span {
+        font-size: 17px;
+        font-weight: 500;
+    }
+
+    .last-first span {
+        font-size: 14px;
+    }
+
+    .last-first img {
+        width: 32px;
+        height: 32px;
+    }
+
+    .first-right {
+        width: 40%;
+    }
+
+    .first-right img {
+        width: 90%;
+    }
+
+    .first-left {
+        width: 60%;
+    }
+
+    .second {
+        margin-left: 5%;
+    }
+
+    .third-left {
+        margin-top: 25vh;
+    }
+
+    .third-img {
+        width: 48%;
+        margin-bottom: 20px;
+    }
+
+    .img img {
+        width: 26%;
+        top: 165px;
+    }
+
+    section {
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    .menu {
+        width: 32%;
+    }
+
+    .menu p {
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .list {
+        width: 30%;
+    }
+
+    .ul-head {
+        font-size: 25px;
+    }
+
+    .fifth {
+        width: 80%;
+    }
+
+    .fifth>div {
+        height: fit-content;
+    }
+
+    .seven {
+        width: 82%;
+    }
+
+    .seven i {
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+    }
+
+    .seven h2 {
+        font-size: 23px;
+        font-weight: 600;
+    }
+
+    .seven span {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .eight {
+        width: 85%;
+    }
+
+    .eight h1 {
+        font-size: 28px;
+        padding-bottom: 0px;
+        padding: 40px;
+        padding-left: 70px;
+    }
+
+    .eight span {
+        line-height: 19px;
+    }
+
+    input,
+    select {
+        height: 30px;
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    input::placeholder,
+    select::placeholder {
+        font-size: 16px;
+    }
+
+    .eight-right {
+        width: 35%;
+    }
+
+    .eight img {
+        display: block;
+        width: 100%;
+    }
+
+    .eight button {
+        width: 100%;
+        padding: 0;
+        height: 30px;
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    footer {
+        width: 85%;
+    }
+
+    footer span {
+        font-size: 16px;
+    }
+
+}
+
+@media (max-width : 800px) {
+    .logo {
+        width: 50%;
+    }
+
+    .logo img {
+        width: 60%;
+    }
+
+    .nav {
+        width: 65%;
+    }
+
+    .nav-button {
+        padding: 0px 5px;
+    }
+
+    .logos-img {
+        width: 80%;
+    }
+
+    .first {
+        flex-direction: column;
+    }
+
+    .first>div {
+        margin-left: 6%;
+        width: 88%;
+        justify-content: center;
+    }
+
+    .last-first {
+        margin-left: 15%;
+        width: 70%;
+    }
+
+    .first-left h1 {
+        width: 100%;
+        text-align: center;
+        font-size: 33px;
+        font-weight: 800;
+        padding-top: 30px;
+        padding-left: 0;
+        padding-bottom: 30px;
+    }
+
+    .first-left span {
+        width: 90%;
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .buttons button {
+        font-size: 14px;
+        padding: 10px 18px;
+    }
+
+    .first-left span {
+        font-size: 17px;
+        font-weight: 500;
+    }
+
+    .last-first span {
+        font-size: 14px;
+        padding: 0;
+        margin-left: -50px;
+    }
+
+    .last-first img {
+        width: 32px;
+        height: 32px;
+        margin-top: 6px;
+    }
+
+    .first-right {
+        width: 40%;
+    }
+
+    .first-right img {
+        width: 90%;
+    }
+
+    .first-left {
+        width: 60%;
+    }
+
+    .second {
+        margin-left: 5%;
+    }
+
+    .second span {
+        font-size: 13px;
+        padding-bottom: 20px;
+    }
+
+    .second h2 {
+        font-size: 26px;
+        font-weight: 800;
+    }
+
+    .third-left {
+        margin-top: 25vh;
+    }
+
+    .img .back-one {
+        width: 150px;
+        height: 150px;
+        top: 37.5%;
+        left: 30%;
+    }
+
+    .img .back-two {
+        width: 225px;
+        height: 225px;
+        top: 31.25%;
+        left: 20%;
+    }
+
+    .third-img {
+        width: 55%;
+        margin-bottom: 20px;
+    }
+
+    .img img {
+        width: 30%;
+        height: 40%;
+        top: 30%;
+        left: 35%;
+    }
+
+    .article {
+        margin-top: 16%;
+    }
+
+    .article h1 {
+        font-size: 60px;
+        margin-left: 8%;
+    }
+
+    .article p {
+        margin-left: 8%;
+        font-size: 21px;
+        font-weight: 700;
+    }
+
+    .article span {
+        width: 80%;
+        font-size: 14px;
+        margin-left: 8%;
+        font-weight: 450;
+    }
+
+    .meals {
+        font-size: 14px;
+        font-weight: 530;
+    }
+
+    .omni {
+        font-size: 27px;
+    }
+
+    section {
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    .menu {
+        width: 32%;
+        height: fit-content;
+        line-height: 35px;
+    }
+
+    .menu span,
+    i {
+        font-size: 16px;
+    }
+
+    .menu p {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    .h4 span {
+        font-size: 11px;
+    }
+
+    .list {
+        width: 32%;
+        padding-left: 0;
+        line-height: 25px;
+    }
+
+    ul {
+        line-height: 40px;
+    }
+
+    li {
+        padding: 0;
+    }
+
+    .list i {
+        margin-right: 10px;
+        font-size: 15px;
+    }
+
+    .ul-head {
+        font-size: 16px;
+    }
+
+    .hr span {
+        font-size: 14px;
+        padding-bottom: 3px;
+    }
+
+    .third {
+        flex-direction: column;
+    }
+
+    .third>div {
+        width: 92%;
+        margin-left: 4%;
+        padding: 0;
+    }
+
+    .third-left .up p {
+        font-size: 14px;
+        font-weight: 500;
+    }
+
+    .third-left .up span {
+        font-size: 27px;
+    }
+
+    .down img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .div21 {
+        margin-top: 38px;
+    }
+
+    .third-img {
+        width: 16%;
+    }
+
+    .fifth {
+        width: 80%;
+        height: fit-content;
+    }
+
+    .fifth .head {
+        padding-top: 25px;
+    }
+
+    .fifth>div {
+        height: fit-content;
+        width: 45%;
+    }
+
+    .fifth .head {
+        font-size: 15px;
+    }
+
+    .number {
+        font-size: 40px;
+        font-weight: 900;
+    }
+
+    .month {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .fifth li {
+        margin-top: 0px;
+        font-size: 14px;
+        margin-left: 20px;
+    }
+
+    .sex span {
+        font-size: 13 px;
+    }
+
+    .seven {
+        width: 82%;
+    }
+
+    .seven i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    .seven h2 {
+        font-size: 20px;
+        font-weight: 550;
+    }
+
+    .seven span {
+        font-size: 14px;
+        line-height: 20px;
+        font-weight: 400;
+    }
+
+    .eight {
+        width: 94%;
+    }
+
+    .left-down form {
+        flex-direction: column;
+        gap: 22px;
+    }
+
+    .left-down form>div {
+        width: 90%;
+    }
+
+    .eight h1 {
+        font-size: 28px;
+        padding-bottom: 0px;
+        padding: 40px;
+        padding-left: 70px;
+    }
+
+    .eight span {
+        line-height: 19px;
+    }
+
+    .left-down label {
+        font-size: 14px;
+        font-weight: 450;
+        margin-bottom: 3px;
+    }
+
+    input,
+    select {
+        height: 30px;
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    input::placeholder,
+    select::placeholder {
+        font-size: 16px;
+    }
+
+    .eight-right {
+        width: 45%;
+    }
+
+    .eight img {
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
+
+    .eight button {
+        width: 100%;
+        padding: 0;
+        height: 30px;
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    footer {
+        width: 90%;
+    }
+
+    footer p {
+        font-size: 18px;
+    }
+
+    footer span {
+        font-size: 13px;
+    }
+
+}
+
+@media (max-width : 426px) {
+    .logo {
+        width: 50%;
+    }
+
+    .logo img {
+        width: 100%;
+    }
+
+    .nav {
+        width: 65%;
+    }
+
+    /* 
+    .nav-drop {
+        display: block;
+    } */
+
+    .logos-img {
+        width: 80%;
+    }
+
+    .first {
+        flex-direction: column;
+    }
+
+    .first>div {
+        margin-left: 3%;
+        width: 94%;
+        justify-content: center;
+    }
+
+    .last-first {
+        margin-left: 15%;
+        width: 70%;
+    }
+
+    .first-left h1 {
+        width: 100%;
+        text-align: center;
+        font-size: 31px;
+        font-weight: 750;
+        padding-top: 30px;
+        padding-left: 0;
+        padding-bottom: 30px;
+    }
+
+    .first-left span {
+        width: 90%;
+        padding-left: 0;
+        text-align: center;
+        font-size: 11;
+    }
+
+    .buttons {
+        padding-left: 0;
+        justify-content: center;
+        margin-bottom: 8px;
+    }
+
+    .buttons button {
+        font-size: 16px;
+        padding: 7px 15px;
+    }
+
+    .first-left span {
+        font-size: 17px;
+        font-weight: 500;
+    }
+
+    .last-first {
+        margin-top: 20px;
+        width: 94%;
+        margin-left: 3%;
+    }
+
+    .last-first span {
+        font-size: 14px;
+        padding: 0;
+        margin-left: 10px;
+    }
+
+    .last-first img {
+        width: 32px;
+        height: 32px;
+        margin-top: 6px;
+    }
+
+    .first-right {
+        width: 40%;
+    }
+
+    .first-right img {
+        width: 90%;
+    }
+
+    .first-left {
+        width: 60%;
+    }
+
+    .second {
+        margin-left: 5%;
+        margin-bottom: 0px;
+    }
+
+    .second span {
+        font-size: 13px;
+        padding-bottom: 20px;
+    }
+
+    .second h2 {
+        font-size: 26px;
+        font-weight: 800;
+    }
+
+    .mobile {
+        /* background-color: red; */
+        flex-direction: column;
+        height: fit-content;
+    }
+
+    .two {
+        flex-direction: column-reverse;
+    }
+
+    .one .article,
+    .two .article,
+    .three .article {
+        width: 100%;
+    }
+
+    .img {
+        height: 500px;
+        width: 100%;
+    }
+
+    .one .img {
+        width: 100%;
+    }
+
+    .two .img {
+        width: 100%;
+        /* background-color: #ddd; */
+    }
+
+    .three .img {
+        width: 100%;
+    }
+
+    .img .back-one {
+        width: 150px;
+        height: 150px;
+        top: 37.5%;
+        left: 30%;
+    }
+
+    .img .back-two {
+        width: 225px;
+        height: 225px;
+        top: 31.25%;
+        left: 20%;
+    }
+
+    .third-img {
+        width: 55%;
+        margin-bottom: 20px;
+    }
+
+    .img img {
+        width: 30%;
+        height: 45%;
+        top: 31.4%;
+        left: 32%;
+    }
+
+    .article {
+        margin-top: 16%;
+        /* background-color: red; */
+        width: 100%;
+    }
+
+    .article h1 {
+        font-size: 60px;
+        margin-left: 8%;
+    }
+
+    .article p {
+        margin-left: 8%;
+        font-size: 21px;
+        font-weight: 700;
+    }
+
+    .article span {
+        width: 80%;
+        font-size: 14px;
+        margin-left: 8%;
+        font-weight: 450;
+    }
+
+    .meals {
+        font-size: 14px;
+        font-weight: 530;
+    }
+
+    .omni {
+        font-size: 25px;
+    }
+
+    section {
+        width: 94%;
+        margin-left: 3%;
+        margin-bottom: 25px;
+    }
+
+    .menu {
+        width: 95%;
+        margin-left: 2.5%;
+        height: fit-content;
+        line-height: 35px;
+        margin-bottom: 30px;
+    }
+
+    .menu span,
+    i {
+        font-size: 16px;
+    }
+
+    .menu p {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    .h4 span {
+        font-size: 11px;
+    }
+
+    .list {
+        width: 90%;
+        padding-left: 0;
+        line-height: 25px;
+    }
+
+    ul {
+        line-height: 35px;
+        /* background-color: red; */
+        width: 70%;
+        margin-left: 19%;
+    }
+
+    li {
+        padding: 0;
+    }
+
+    .list i {
+        margin-right: 10px;
+        font-size: 15px;
+    }
+
+    .ul-head {
+        font-size: 16px;
+    }
+
+    .hr span {
+        font-size: 14px;
+        padding-bottom: 3px;
+    }
+
+    .third {
+        flex-direction: column;
+    }
+
+    .third>div {
+        width: 92%;
+        margin-left: 4%;
+        padding: 0;
+    }
+
+    .third-left {
+        padding: 30px;
+        margin-top: 30px;
+    }
+
+    .down {
+        flex-direction: column;
+    }
+
+    .down div {
+        width: 100%;
+    }
+
+    .third-left .up p {
+        font-size: 14px;
+        font-weight: 500;
+    }
+
+    .third-left .up span {
+        font-size: 27px;
+    }
+
+    .down img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .div21 {
+        margin-top: 38px;
+    }
+
+    .third-img {
+        width: 30%;
+    }
+
+    .fifth {
+        width: 80%;
+        height: fit-content;
+        flex-direction: column;
+    }
+
+    .fifth .head {
+        padding-top: 25px;
+    }
+
+    .fifth>div {
+        height: fit-content;
+        width: 95%;
+        margin-bottom: 30px;
+    }
+
+    .fifth ul {
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+
+    .fifth .head {
+        font-size: 15px;
+    }
+
+    .number {
+        font-size: 40px;
+        font-weight: 900;
+    }
+
+    .month {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .fifth li {
+        margin-top: 0px;
+        font-size: 14px;
+        margin-left: 20px;
+    }
+
+    .sex {
+        margin-bottom: 35px;
+    }
+
+    .sex span {
+        font-size: 12px;
+    }
+
+    .seven {
+        width: 82%;
+        flex-direction: column;
+    }
+
+    .seven>div {
+        width: 100%;
+    }
+
+    .seven i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    .seven h2 {
+        font-size: 20px;
+        font-weight: 550;
+    }
+
+    .seven span {
+        font-size: 14px;
+        line-height: 20px;
+        font-weight: 400;
+    }
+
+    .eight {
+        width: 94%;
+        flex-direction: column-reverse;
+    }
+
+    .eight-left {
+        width: 100%;
+    }
+
+    .left-down form {
+        flex-direction: column;
+        gap: 22px;
+        width: 90%;
+    }
+
+    .left-down form>div {
+        width: 90%;
+    }
+
+    .eight h1 {
+        font-size: 28px;
+        padding-bottom: 0px;
+        padding: 15px;
+        padding-left: 20px;
+    }
+
+    .eight span {
+        line-height: 19px;
+        padding-left: 20px;
+        width: 100%;
+    }
+
+    .left-up {
+        width: 100%;
+    }
+
+    .left-down label {
+        font-size: 14px;
+        font-weight: 450;
+        margin-bottom: 3px;
+    }
+
+    input,
+    select {
+        height: 30px;
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    input::placeholder,
+    select::placeholder {
+        font-size: 16px;
+    }
+
+    .eight-right {
+        width: 100%;
+    }
+
+    .eight img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        border-top-left-radius: 15px;
+    }
+
+    .eight button {
+        width: 100%;
+        padding: 0;
+        height: 30px;
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    footer {
+        width: 90%;
+        flex-direction: row-reverse;
+    }
+
+    footer>div {
+        width: 30%;
+    }
+
+    .footer1 {
+        width: 50%;
+    }
+
+    footer p {
+        font-size: 18px;
+    }
+
+    footer span {
+        font-size: 13px;
+    }
+
+}
+
+@media (max-width : 395px) {
+    .logo {
+        width: 50%;
+    }
+
+    .logo img {
+        width: 100%;
+    }
+
+    .nav {
+        width: 65%;
+    }
+
+    /* 
+    .nav-drop {
+        display: block;
+    } */
+
+    .logos-img {
+        width: 80%;
+    }
+
+    .first {
+        flex-direction: column;
+    }
+
+    .first>div {
+        margin-left: 3%;
+        width: 94%;
+        justify-content: center;
+    }
+
+    .last-first {
+        margin-left: 15%;
+        width: 70%;
+    }
+
+    .first-left h1 {
+        width: 100%;
+        text-align: center;
+        font-size: 31px;
+        font-weight: 750;
+        padding-top: 30px;
+        padding-left: 0;
+        padding-bottom: 30px;
+    }
+
+    .first-left span {
+        width: 90%;
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .buttons {
+        padding-left: 0;
+        justify-content: center;
+        margin-bottom: 8px;
+    }
+
+    .buttons button {
+        font-size: 16px;
+        padding: 7px 15px;
+    }
+
+    .first-left span {
+        font-size: 17px;
+        font-weight: 500;
+    }
+
+    .last-first {
+        margin-top: 20px;
+        width: 94%;
+        margin-left: 3%;
+    }
+
+    .last-first span {
+        font-size: 11.3px;
+        padding: 0;
+        margin-left: 10px;
+    }
+
+    .last-first img {
+        width: 30px;
+        height: 30px;
+        margin-top: 6px;
+    }
+
+    .first-right {
+        width: 40%;
+    }
+
+    .first-right img {
+        width: 90%;
+    }
+
+    .first-left {
+        width: 60%;
+    }
+
+    .second {
+        margin-left: 5%;
+        margin-bottom: 0px;
+    }
+
+    .second span {
+        font-size: 13px;
+        padding-bottom: 20px;
+    }
+
+    .second h2 {
+        font-size: 26px;
+        font-weight: 800;
+    }
+
+    .mobile {
+        /* background-color: red; */
+        flex-direction: column;
+        height: fit-content;
+    }
+
+    .two {
+        flex-direction: column-reverse;
+    }
+
+    .one .article,
+    .two .article,
+    .three .article {
+        width: 100%;
+    }
+
+    .img {
+        height: 500px;
+        width: 100%;
+    }
+
+    .one .img {
+        width: 100%;
+    }
+
+    .two .img {
+        width: 100%;
+        /* background-color: #ddd; */
+    }
+
+    .three .img {
+        width: 100%;
+    }
+
+    .img .back-one {
+        width: 150px;
+        height: 150px;
+        top: 37.5%;
+        left: 30%;
+    }
+
+    .img .back-two {
+        width: 225px;
+        height: 225px;
+        top: 31.25%;
+        left: 20%;
+    }
+
+    .third-img {
+        width: 55%;
+        margin-bottom: 20px;
+    }
+
+    .img img {
+        width: 30%;
+        height: 45%;
+        top: 31.4%;
+        left: 32%;
+    }
+
+    .article {
+        margin-top: 16%;
+        /* background-color: red; */
+        width: 100%;
+    }
+
+    .article h1 {
+        font-size: 60px;
+        margin-left: 8%;
+    }
+
+    .article p {
+        margin-left: 8%;
+        font-size: 21px;
+        font-weight: 700;
+    }
+
+    .article span {
+        width: 80%;
+        font-size: 14px;
+        margin-left: 8%;
+        font-weight: 450;
+    }
+
+    .meals {
+        font-size: 14px;
+        font-weight: 530;
+    }
+
+    .omni {
+        font-size: 25px;
+    }
+
+    section {
+        width: 94%;
+        margin-left: 3%;
+        margin-bottom: 25px;
+    }
+
+    .menu {
+        width: 95%;
+        margin-left: 2.5%;
+        height: fit-content;
+        line-height: 35px;
+        margin-bottom: 30px;
+    }
+
+    .menu span,
+    i {
+        font-size: 16px;
+    }
+
+    .menu p {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    .h4 span {
+        font-size: 11px;
+    }
+
+    .list {
+        width: 90%;
+        padding-left: 0;
+        line-height: 25px;
+    }
+
+    ul {
+        line-height: 35px;
+        /* background-color: red; */
+        width: 70%;
+        margin-left: 19%;
+    }
+
+    li {
+        padding: 0;
+    }
+
+    .list i {
+        margin-right: 10px;
+        font-size: 15px;
+    }
+
+    .ul-head {
+        font-size: 16px;
+    }
+
+    .hr span {
+        font-size: 14px;
+        padding-bottom: 3px;
+    }
+
+    .third {
+        flex-direction: column;
+    }
+
+    .third>div {
+        width: 92%;
+        margin-left: 4%;
+        padding: 0;
+    }
+
+    .third-left {
+        padding: 30px;
+        margin-top: 30px;
+    }
+
+    .down {
+        flex-direction: column;
+    }
+
+    .down div {
+        width: 100%;
+    }
+
+    .third-left .up p {
+        font-size: 14px;
+        font-weight: 500;
+    }
+
+    .third-left .up span {
+        font-size: 27px;
+    }
+
+    .down img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .div21 {
+        margin-top: 38px;
+    }
+
+    .third-img {
+        width: 30%;
+    }
+
+    .fifth {
+        width: 80%;
+        height: fit-content;
+        flex-direction: column;
+    }
+
+    .fifth .head {
+        padding-top: 25px;
+    }
+
+    .fifth>div {
+        height: fit-content;
+        width: 95%;
+        margin-bottom: 30px;
+    }
+
+    .fifth ul {
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+
+    .fifth ul {
+        padding-left: 0;
+    }
+
+    .fifth .head {
+        font-size: 15px;
+    }
+
+    .number {
+        font-size: 40px;
+        font-weight: 900;
+    }
+
+    .month {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .fifth li {
+        margin-top: 0px;
+        font-size: 12px;
+        margin-left: 20px;
+    }
+
+    .sex {
+        margin-bottom: 35px;
+    }
+
+    .sex span {
+        font-size: 12px;
+    }
+
+    .seven {
+        width: 82%;
+        flex-direction: column;
+    }
+
+    .seven>div {
+        width: 100%;
+    }
+
+    .seven i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    .seven h2 {
+        font-size: 20px;
+        font-weight: 550;
+    }
+
+    .seven span {
+        font-size: 14px;
+        line-height: 20px;
+        font-weight: 400;
+    }
+
+    .eight {
+        width: 94%;
+        flex-direction: column-reverse;
+    }
+
+    .eight-left {
+        width: 100%;
+    }
+
+    .left-down form {
+        flex-direction: column;
+        gap: 22px;
+        width: 90%;
+    }
+
+    .left-down form>div {
+        width: 90%;
+    }
+
+    .eight h1 {
+        font-size: 28px;
+        padding-bottom: 0px;
+        padding: 15px;
+        padding-left: 20px;
+    }
+
+    .eight span {
+        line-height: 19px;
+        padding-left: 20px;
+        width: 100%;
+    }
+
+    .left-up {
+        width: 100%;
+    }
+
+    .left-down label {
+        font-size: 14px;
+        font-weight: 450;
+        margin-bottom: 3px;
+    }
+
+    input,
+    select {
+        height: 30px;
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    input::placeholder,
+    select::placeholder {
+        font-size: 16px;
+    }
+
+    .eight-right {
+        width: 100%;
+    }
+
+    .eight img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        border-top-left-radius: 15px;
+    }
+
+    .eight button {
+        width: 100%;
+        padding: 0;
+        height: 30px;
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    footer {
+        width: 90%;
+        flex-direction: row-reverse;
+    }
+
+    footer>div {
+        width: 30%;
+    }
+
+    .footer1 {
+        width: 50%;
+    }
+
+    footer p {
+        font-size: 18px;
+    }
+
+    footer span {
+        font-size: 13px;
+    }
+
+}
